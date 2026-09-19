@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Operating Systems",
+    "code": "CSE2005",
+    "credits": 4,
+    "totalChapters": 8,
+    "chaptersDone": 5,
+    "faculty": "Dr. R. Sharma"
+  },
+  {
+    "id": 2,
+    "name": "Computer Networks",
+    "code": "CSE3001",
+    "credits": 3,
+    "totalChapters": 6,
+    "chaptersDone": 6,
+    "faculty": "Dr. K. Rao"
+  },
+  {
+    "id": 3,
+    "name": "Database Management Systems",
+    "code": "CSE2004",
+    "credits": 4,
+    "totalChapters": 7,
+    "chaptersDone": 2,
+    "faculty": "Dr. S. Menon"
+  },
+  {
+    "id": 4,
+    "name": "Design and Analysis of Algorithms",
+    "code": "CSE3002",
+    "credits": 3,
+    "totalChapters": 9,
+    "chaptersDone": 4,
+    "faculty": "Dr. A. Iyer"
+  },
+  {
+    "id": 5,
+    "name": "Software Engineering",
+    "code": "CSE3005",
+    "credits": 3,
+    "totalChapters": 5,
+    "chaptersDone": 0,
+    "faculty": "Dr. P. Gupta"
+  }
+]
